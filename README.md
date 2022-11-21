@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://github.com/Deraij/"><img alt="Github" src="https://img.shields.io/badge/Website-github.com/Deraij-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/igboejesi-chidera-10a25a1b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-igboejesi-chidera-10a25a1b5/-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/igboejesi-chidera-10a25a1b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-igboejesi-chidera-10a25a1b5-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/dera.ij/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dera.ij-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:igboejesichidera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-igboejesichidera@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
