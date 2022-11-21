@@ -18,14 +18,16 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=007396)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy&logoColor=007396)
-  ![Html](https://img.shields.io/badge/-Html-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=git)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
 - 📊 &nbsp;
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=git)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=git)
  
-- ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+-   &nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
