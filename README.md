@@ -16,8 +16,9 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Matplotlib](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Html](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=007396)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy&logoColor=007396)
+  ![Html](https://img.shields.io/badge/-Html-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
