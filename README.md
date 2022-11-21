@@ -1,6 +1,6 @@
 
 
-<h2>Hey there! I'm Chidera.</h2>
+<h2>Hey there!👋 I'm Chidera.</h2>
 
 <h3> 👨🏻‍💻 &nbsp; About Me </h3>
 
@@ -22,16 +22,16 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
 - 📊 &nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=git)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=git)
  
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 <br/>
 
 <a href="https://github.com/Deraij">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deraij&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deraij&theme=buefy&layout=compact" />
 </a>
 
