@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Studying Software Engineering at Babcock University.
 
-- 🤔 &nbsp; Exploring new technologies and Analyzing for better decision making.
+- 🤔 &nbsp; Exploring new technologies and analysis for better data driven decision.
 
 - 💼 &nbsp; Team member at Enactus BU.
 
