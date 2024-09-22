@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp; About Me </h3>
 
-- 🎓 &nbsp; Studying Software Engineering at Babcock University.
+- 🎓 &nbsp; Studied Software Engineering at Babcock University.
 
 - 🤔 &nbsp; Exploring new technologies and analysis for better data driven decision.
 
